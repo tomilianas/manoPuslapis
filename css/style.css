@@ -1,0 +1,11 @@
+#content {
+    height: 800px;
+}
+
+#test {
+    position: absolute;
+    left: 50px;
+    bottom: 40px;
+    background: rgba(0,0,0,0.6);
+    padding: 18px;
+}
